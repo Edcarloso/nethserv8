@@ -1,7 +1,7 @@
 {
-  "name": "kickstart",
+  "name": "nethserv8",
   "description": {
-    "en": "My kickstart module"
+    "en": "My nethserv8 module"
   },
   "categories": [],
   "authors": [
@@ -11,9 +11,9 @@
     }
   ],
   "docs": {
-    "documentation_url": "https://docs.kickstart.com/",
+    "documentation_url": "https://docs.nethserv8.com/",
     "bug_url": "https://github.com/NethServer/dev",
-    "code_url": "https://github.com/author/ns8-kickstart"
+    "code_url": "https://github.com/author/ns8-nethserv8"
   },
-  "source": "ghcr.io/nethserver/kickstart"
+  "source": "ghcr.io/nethserver/nethserv8"
 }
